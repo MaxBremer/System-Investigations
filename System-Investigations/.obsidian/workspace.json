@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Investigation Model.md",
+                "file": "Current Vault Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Investigation Model"
+              "title": "Current Vault Model"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Investigation Model.md",
+                "file": "Current Vault Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Current Investigation Model"
+              "title": "Backlinks for Current Vault Model"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Investigation Model.md",
+                "file": "Current Vault Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Current Investigation Model"
+              "title": "Outgoing links from Current Vault Model"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Investigation Model.md",
+                "file": "Current Vault Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Current Investigation Model"
+              "title": "Outline of Current Vault Model"
             }
           }
         ]
@@ -200,10 +200,10 @@
   },
   "active": "ea4a65f6ef057dfc",
   "lastOpenFiles": [
+    "Current Investigation Model.md",
     "Current Vault Model.md",
     "Meta Notes/A Notes Purpose.md",
     "Meta Notes/Note Length.md",
-    "Current Investigation Model.md",
     "Investigations",
     "README.md",
     "Meta Notes",
