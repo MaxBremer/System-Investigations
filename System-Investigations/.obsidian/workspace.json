@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current System Model.md",
+                "file": "Current Investigation Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current System Model"
+              "title": "Current Investigation Model"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current System Model.md",
+                "file": "Current Investigation Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Current System Model"
+              "title": "Backlinks for Current Investigation Model"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current System Model.md",
+                "file": "Current Investigation Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Current System Model"
+              "title": "Outgoing links from Current Investigation Model"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current System Model.md",
+                "file": "Current Investigation Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Current System Model"
+              "title": "Outline of Current Investigation Model"
             }
           }
         ]
@@ -198,13 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "899658e792f055e9",
+  "active": "ea4a65f6ef057dfc",
   "lastOpenFiles": [
-    "Investigations",
     "Current Vault Model.md",
-    "Current System Model.md",
     "Meta Notes/A Notes Purpose.md",
     "Meta Notes/Note Length.md",
+    "Current Investigation Model.md",
+    "Investigations",
     "README.md",
     "Meta Notes",
     "Welcome.md"

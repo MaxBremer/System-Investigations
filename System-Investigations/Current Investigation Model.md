@@ -1,7 +1,8 @@
 ### V0.1 Initial System Model
+- NOTE: Terminology will generally use "System" and "Investigation" interchangeably. Technically each folder is a "System Investigation" so I'm comfortable with this.
 - Each System is in its own folder within the Investigations folder.
-	- A System folder begins with SYS-XXX-(name)-SMVX.X
-	- XXX is the system number (001, 002 etc)
+	- A System folder begins with I-XXX-(name)-SMVX.X
+	- XXX is the investigation number (001, 002 etc)
 	- (name) is the short, descriptive name of the system
 	- SMVX.X is the System Model Version that the system was built with.
 - Each System contains an XXX-README file
