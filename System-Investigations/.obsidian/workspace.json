@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "16573cc6b96627c6",
+        "id": "1602d95b8a210ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ece485f5f3cec8",
+            "id": "b64e3f4b034d761e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta Notes/Note Length.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Note Length"
-            }
-          },
-          {
-            "id": "ea4a65f6ef057dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001-README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001-README"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 001-README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001-README"
+              "title": "Outline"
             }
           }
         ]
@@ -198,13 +176,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea4a65f6ef057dfc",
+  "active": "b64e3f4b034d761e",
   "lastOpenFiles": [
+    "Meta Notes/Note Length.md",
+    "Meta Notes/Anti-paralysis rules.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
     "Templates/Current Model.md",
     "Current Vault Model.md",
     "Investigations/Untitled.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
     "Meta Notes/Recon phase.md",
     "README.md",
     "Vault Model Revisions.md",
@@ -225,7 +205,6 @@
     "Templates/Note template.md",
     "Templates",
     "Meta Notes/A Notes Purpose.md",
-    "Meta Notes/Note Length.md",
     "Investigations",
     "Meta Notes",
     "Welcome.md"
