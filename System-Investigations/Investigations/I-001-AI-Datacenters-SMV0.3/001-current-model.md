@@ -1,14 +1,15 @@
 ---
 type: current model
-investigation:
-created: "{{date}}"
-updated: "{{date}}"
+investigation: 001-AI-Datacenters
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
-# XXX Current Model
+# 001 Current Model
 
 
-Version:
+Version: 0.0
+
 
 ---
 

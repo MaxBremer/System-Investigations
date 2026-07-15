@@ -11,7 +11,7 @@ updated: 2026-07-15
 **Status**
 - Phase: Opening investigations
 - Current focus: Building foundation
-- Next action: Finish readme
+- Next action: Build an ignorant map v0.0 in current-model.md
 
 ---
 
