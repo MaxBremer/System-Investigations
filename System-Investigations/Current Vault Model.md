@@ -1,7 +1,15 @@
-### V0.1 Initial Vault Model
+### V0.2
 - Notes on Vault model are stored here.
 - Notes on the per-system model are in [[Current Investigation Model]]
 	- Instances of this model are stored in the Investigations folder.
 - Meta notes are in Meta Notes folder
 	- Meta notes are notes on the high-level process of investigations; best practices, note lengths, etc.
-	- Meta notes CURRENTLY are small, 1-2 notes per file.
+	- Meta notes are the shortest possible length to still contain the entire idea or argument it needs to preserve.
+- The Templates folder contains reusable templates for investigations (notes template, source template, etc)
+- Investigation Model Revisions contains revisions made to the Investigation Model.
+- Vault Model Revisions contains changes made to the Vault model.
+- Investigation Index is a general index for all investigations. There are three sections to the index:
+	- Active: Currently active investigations.
+	- Incubating: Ideas for future investigations with little to no active work currently.
+	- Completed or Dormant: One way or another, they're done for now.
+- Interesting Questions is a simple log of interesting questions I may want to explore or tie into models.
