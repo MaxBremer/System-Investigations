@@ -42,11 +42,9 @@ Revenue
 
 ## Bottlenecks
 
--
-
--
-
--
+- 
+- 
+- 
 
 ---
 

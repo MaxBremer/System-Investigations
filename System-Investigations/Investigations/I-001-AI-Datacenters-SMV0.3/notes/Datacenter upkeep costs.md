@@ -1,14 +1,14 @@
 ---
 type: question
 status: open
-investigation:
-created: "{{date}}"
+investigation: 001-AI-Datacenters
+created: 2026-07-16
 updated: "{{date}}"
 ---
 
 ## The Question
 
-What exactly am I asking?
+What are the upkeep costs of a datacenter after construction is complete? What do those look like if we exclude power and coolant? How significant are they
 
 ---
 
@@ -30,7 +30,7 @@ If answered...
 
 - [ ] Explains an incentive
 
-- [ ] Other:
+- [x] Other: Changes projected impact
 
 ---
 

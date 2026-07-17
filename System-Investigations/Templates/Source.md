@@ -46,12 +46,9 @@ Possible biases?
 
 ## Key Takeaways
 
--
-
--
-
--
-
+- 
+- 
+- 
 ---
 
 ## Useful Quotes
