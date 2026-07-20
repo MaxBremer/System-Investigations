@@ -13,9 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
                 "mode": "source",
                 "source": false
+=======
+                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
+                "viewState": {
+                  "x": -323.29121084419955,
+                  "y": -479.79322676420514,
+                  "zoom": -0.5673163757091775
+                }
+>>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
               },
               "icon": "lucide-file",
               "title": "What is a data center"
@@ -94,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta Notes/Recon phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Recon phase"
             }
           },
           {
@@ -112,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meta Notes/Recon phase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Recon phase"
             }
           },
           {
@@ -154,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Meta Notes/Recon phase.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Recon phase"
             }
           }
         ]
@@ -182,15 +194,25 @@
   },
   "active": "b64e3f4b034d761e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/Unconfirmed 324471.crdownload",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
+=======
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
+>>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
     "Templates/Question.md",
+    "Meta Notes/Recon phase.md",
+    "Meta Notes/Note Length.md",
+    "Meta Notes/A Notes Purpose.md",
+    "Meta Notes/Anti-paralysis rules.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/HPE Colocation article.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
+<<<<<<< HEAD
     "Templates/Observation.md",
     "Templates/Source.md",
     "Current Investigation Model.md",
@@ -202,22 +224,36 @@
     "Investigation Model Revisions.md",
     "Meta Notes/Note Length.md",
     "Meta Notes/Anti-paralysis rules.md",
+=======
+    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
+    "Templates/Current Model.md",
+>>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
     "Current Vault Model.md",
     "Investigations/Untitled.md",
-    "Meta Notes/Recon phase.md",
     "README.md",
     "Vault Model Revisions.md",
     "Interesting Questions.md",
+    "Current Investigation Model.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes",
     "Investigation Index.md",
     "Templates/Concept.md",
     "Templates/README.md",
+    "Investigation Model Revisions.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3",
+    "Templates/Source.md",
+    "Templates/Observation.md",
     "Meta Notes/test.md",
     "Templates/Note template.md",
     "Templates",
+<<<<<<< HEAD
     "Investigations"
+=======
+    "Investigations",
+    "Meta Notes",
+    "Welcome.md"
+>>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
   ]
 }

@@ -5,11 +5,12 @@
 		{"id":"9476e6d52f3061a4","type":"text","text":"AI Products","x":600,"y":-140,"width":250,"height":60},
 		{"id":"38be4029250a6b3d","type":"text","text":"Capital","x":-680,"y":-140,"width":250,"height":60},
 		{"id":"a1799d125940ca76","type":"text","text":"Datacenter materials","x":-360,"y":-140,"width":250,"height":60},
-		{"id":"a42744e0e98f3735","type":"text","text":"Land\nBuilding Construction\nPower\nSemiconductors\nPhysical infrastructure","x":-360,"y":-400,"width":250,"height":180},
+		{"id":"a42744e0e98f3735","type":"text","text":"Land\nBuilding Construction\nPower\nSemiconductors/GPUs\nPhysical infrastructure","x":-360,"y":-400,"width":250,"height":180},
 		{"id":"81b1d78a72d468c5","type":"text","text":"Training\nInference","x":274,"y":-264,"width":250,"height":60},
 		{"id":"fbdfc80e7d8e6052","type":"text","text":"Datacenter capacity (operational data center)","x":-40,"y":-140,"width":250,"height":60},
 		{"id":"c41b9ebaf6309cf7","type":"text","text":"Enterprise (B2B)\nConsumer","x":902,"y":-264,"width":250,"height":91},
-		{"id":"b430c8d82f90db02","x":-39,"y":-17,"width":250,"height":117,"type":"text","text":"Datacenter operators\nOrganizations that operate data centers after their completion."}
+		{"id":"b430c8d82f90db02","type":"text","text":"Datacenter operators\nOrganizations that operate data centers after their completion.","x":-39,"y":-17,"width":250,"height":117},
+		{"id":"55b1b62ece2e5389","x":-680,"y":-360,"width":250,"height":140,"type":"text","text":"Debt\nVC funding\nDirect investment"}
 	],
 	"edges":[
 		{"id":"00e61b8eb0e94a8a","fromNode":"9476e6d52f3061a4","fromSide":"right","toNode":"4230110c6a8c04d4","toSide":"left"},
@@ -20,6 +21,7 @@
 		{"id":"d38e9271dfd7c58f","fromNode":"a1799d125940ca76","fromSide":"top","toNode":"a42744e0e98f3735","toSide":"bottom"},
 		{"id":"e026a81a96ff03a2","fromNode":"d7cda700b1f67094","fromSide":"top","toNode":"81b1d78a72d468c5","toSide":"bottom"},
 		{"id":"3c81d4b9b40cc556","fromNode":"4230110c6a8c04d4","fromSide":"top","toNode":"c41b9ebaf6309cf7","toSide":"bottom"},
-		{"id":"48d27c7b84915a56","fromNode":"fbdfc80e7d8e6052","fromSide":"bottom","toNode":"b430c8d82f90db02","toSide":"top"}
+		{"id":"48d27c7b84915a56","fromNode":"fbdfc80e7d8e6052","fromSide":"bottom","toNode":"b430c8d82f90db02","toSide":"top"},
+		{"id":"3e5bf1c278f915a6","fromNode":"38be4029250a6b3d","fromSide":"top","toNode":"55b1b62ece2e5389","toSide":"bottom"}
 	]
 }

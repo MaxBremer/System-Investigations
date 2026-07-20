@@ -33,7 +33,7 @@ Learning about what colocation, didn't recognize the term.
 ## Reliability
 
 It's a primary source, they operate in the industry, but they're likely biased by the fact that they're offering colocation services in favor of colocation as an option for companies. 
-This article is likely trying to sell you on colocation as an option.
+This article is likely trying to sell you on colocation as an option, either over competitors data center options or as a cheaper alternative to some of their own pricier options..
 
 ---
 
