@@ -11,17 +11,14 @@
             "id": "b64e3f4b034d761e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
-                "viewState": {
-                  "x": -30.34012738853511,
-                  "y": -144.42189988057322,
-                  "zoom": -0.3487532296219186
-                }
+                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "model-map"
+              "icon": "lucide-file",
+              "title": "What is a data center"
             }
           }
         ]
@@ -185,11 +182,15 @@
   },
   "active": "b64e3f4b034d761e",
   "lastOpenFiles": [
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/Unconfirmed 324471.crdownload",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
     "Templates/Question.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/HPE Colocation article.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
     "Templates/Observation.md",
     "Templates/Source.md",
     "Current Investigation Model.md",
@@ -198,7 +199,6 @@
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
     "Templates/Current Model.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
     "Investigation Model Revisions.md",
     "Meta Notes/Note Length.md",
     "Meta Notes/Anti-paralysis rules.md",
@@ -218,9 +218,6 @@
     "Meta Notes/test.md",
     "Templates/Note template.md",
     "Templates",
-    "Meta Notes/A Notes Purpose.md",
-    "Investigations",
-    "Meta Notes",
-    "Welcome.md"
+    "Investigations"
   ]
 }
