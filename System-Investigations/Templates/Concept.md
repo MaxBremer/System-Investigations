@@ -1,4 +1,9 @@
-
+---
+type: concept
+investigation:
+created: "{{date}}"
+updated: "{{date}}"
+---
 ## Definition
 
 ---

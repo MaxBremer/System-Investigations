@@ -3,18 +3,18 @@ type: question
 status: open
 investigation: 001-AI-Datacenters
 created: 2026-07-16
-updated: "{{date}}"
+updated: 2026-07-16
 ---
 
 ## The Question
 
-What are the upkeep costs of a datacenter after construction is complete? What do those look like if we exclude power and coolant? How significant are they
+What are the upkeep costs of a datacenter after construction is complete? What do those look like if we exclude power and coolant?
 
 ---
 
 ## Why I'm Asking
 
-What part of the current model does this question affect?
+This may be a generally overlooked part of the resource flow involved in maintaining an existing data center after construction; revenue will have to offset these costs.
 
 ---
 

@@ -12,12 +12,13 @@ updated: 2026-07-15
 - Phase: Opening investigations
 - Current focus: Building foundation
 - Next action: Build an ignorant map v0.0 in current-model.md
+	- Walk through a small number of examples/AI reports.
 
 ---
 
 # Central Question
 
-Why are tech giants and AI companies pouring large amounts of capital into datacenters with little guarantee of long-term return
+Why are tech giants and AI companies pouring large amounts of capital into datacenters with little guarantee of long-term return?
 
 ---
 

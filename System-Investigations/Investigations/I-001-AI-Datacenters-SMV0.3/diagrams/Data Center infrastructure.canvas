@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"a0ef194a24f8a5a3","x":-65,"y":200,"width":250,"height":60,"type":"text","text":"Network"},
+		{"id":"e0fed863ebe51079","x":-65,"y":100,"width":250,"height":60,"type":"text","text":"Power"},
+		{"id":"e294fcf38ed67237","x":-65,"y":0,"width":250,"height":60,"type":"text","text":"Compute"},
+		{"id":"19fa30a2f04ecab2","x":-65,"y":-90,"width":250,"height":60,"type":"text","text":"Cooling"},
+		{"id":"f2858ec447a2fdd2","x":-65,"y":-180,"width":250,"height":60,"type":"text","text":"Storage"},
+		{"id":"e3a4874b05a791ca","x":-460,"y":-180,"width":230,"height":60,"type":"text","text":"Core system components"},
+		{"id":"99e4046da17b1b66","x":520,"y":-60,"width":250,"height":60,"type":"text","text":"Servers, physical"},
+		{"id":"de9e7d694a8b933e","x":520,"y":30,"width":250,"height":60,"type":"text","text":"Servers, virtualized hosts"},
+		{"id":"a535ac515f989fda","x":520,"y":-460,"width":250,"height":60,"type":"text","text":"Storage Area Networks (SANs)"},
+		{"id":"091b995349ed9b64","x":520,"y":-540,"width":250,"height":60,"type":"text","text":"Network-attached Storage (NAS)"},
+		{"id":"9cd1c6816cfabe09","x":520,"y":-380,"width":250,"height":60,"type":"text","text":"Solid-state arrays"}
+	],
+	"edges":[
+		{"id":"c6d87b470b84c2fc","fromNode":"e3a4874b05a791ca","fromSide":"right","toNode":"f2858ec447a2fdd2","toSide":"left"},
+		{"id":"9f028dca7e41bacc","fromNode":"e3a4874b05a791ca","fromSide":"right","toNode":"19fa30a2f04ecab2","toSide":"left"},
+		{"id":"5aa68a706480ed0d","fromNode":"e3a4874b05a791ca","fromSide":"right","toNode":"e294fcf38ed67237","toSide":"left"},
+		{"id":"537963258f4c4879","fromNode":"e3a4874b05a791ca","fromSide":"right","toNode":"e0fed863ebe51079","toSide":"left"},
+		{"id":"e9ac2e8355953d91","fromNode":"e3a4874b05a791ca","fromSide":"right","toNode":"a0ef194a24f8a5a3","toSide":"left"},
+		{"id":"091f921f6aa06124","fromNode":"e294fcf38ed67237","fromSide":"right","toNode":"99e4046da17b1b66","toSide":"left"},
+		{"id":"d7d259678997dfa7","fromNode":"e294fcf38ed67237","fromSide":"right","toNode":"de9e7d694a8b933e","toSide":"left"},
+		{"id":"9d308b5b26f1e6ba","fromNode":"f2858ec447a2fdd2","fromSide":"right","toNode":"a535ac515f989fda","toSide":"left"},
+		{"id":"e391498d72f4493a","fromNode":"f2858ec447a2fdd2","fromSide":"right","toNode":"091b995349ed9b64","toSide":"left"},
+		{"id":"0802c151d4cf4751","fromNode":"f2858ec447a2fdd2","fromSide":"right","toNode":"9cd1c6816cfabe09","toSide":"left"}
+	]
+}

@@ -1,3 +1,8 @@
+### Revision 0.4 - 2026-07-29
+#### Changed
+- Added metadata to Concept template. 
+- Adding "questions" folder differentiated from "notes" for tracking questions separately.
+	- Done because it just felt weird to have concrete points stored in the same place as open questions, and notes was looking like it was going to be too broad.
 ### Revision 0.3 - 2026-07-15
 #### Changed
 - Removed questions.md file, each question should be its own note.

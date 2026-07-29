@@ -13,21 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
+                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate Project System Report.md",
                 "mode": "source",
                 "source": false
-=======
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
-                "viewState": {
-                  "x": -323.29121084419955,
-                  "y": -479.79322676420514,
-                  "zoom": -0.5673163757091775
-                }
->>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
               },
               "icon": "lucide-file",
-              "title": "What is a data center"
+              "title": "AI Stargate Project System Report"
             }
           }
         ]
@@ -194,66 +185,42 @@
   },
   "active": "b64e3f4b034d761e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/Unconfirmed 324471.crdownload",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Hyperscalers.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a hyperscaler.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
+    "Current Investigation Model.md",
+    "Investigation Model Revisions.md",
+    "Current Vault Model.md",
+    "Interesting Questions.md",
+    "Vault Model Revisions.md",
+    "Meta Notes/Anti-paralysis rules.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/questions",
+    "Templates/Concept.md",
+    "Templates/Current Model.md",
+    "Investigation Index.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate Project System Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Power Availability.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/IEEE Data Center.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/Data Center infrastructure.canvas",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/HPE Colocation article.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
-=======
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
->>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
     "Templates/Question.md",
     "Meta Notes/Recon phase.md",
     "Meta Notes/Note Length.md",
     "Meta Notes/A Notes Purpose.md",
-    "Meta Notes/Anti-paralysis rules.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/HPE Colocation article.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
-<<<<<<< HEAD
-    "Templates/Observation.md",
-    "Templates/Source.md",
-    "Current Investigation Model.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
-    "Templates/Current Model.md",
-    "Investigation Model Revisions.md",
-    "Meta Notes/Note Length.md",
-    "Meta Notes/Anti-paralysis rules.md",
-=======
-    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
-    "Templates/Current Model.md",
->>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
-    "Current Vault Model.md",
     "Investigations/Untitled.md",
     "README.md",
-    "Vault Model Revisions.md",
-    "Interesting Questions.md",
-    "Current Investigation Model.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes",
-    "Investigation Index.md",
-    "Templates/Concept.md",
-    "Templates/README.md",
-    "Investigation Model Revisions.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3",
-    "Templates/Source.md",
-    "Templates/Observation.md",
-    "Meta Notes/test.md",
-    "Templates/Note template.md",
     "Templates",
-<<<<<<< HEAD
-    "Investigations"
-=======
     "Investigations",
-    "Meta Notes",
-    "Welcome.md"
->>>>>>> e57d500dd99f9c526d77cecc373bc7beecf4ab97
+    "Meta Notes"
   ]
 }

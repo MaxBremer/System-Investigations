@@ -1,4 +1,4 @@
-### V0.3
+### V0.4
 - NOTE: Terminology will generally use "System" and "Investigation" interchangeably. Technically each folder is a "System Investigation" so I'm comfortable with this.
 - Each System is in its own folder within the Investigations folder.
 	- A System folder begins with I-XXX-(name)-SMVX.X
@@ -15,12 +15,16 @@
 	- This is a general catch-all for written notes. My takeaway from sources, my observations or connections between sources, etc.
 	- For now, there is no strict rule on the notes in this folder: purely vibes-based.
 	- A note is either an Observation or a Question. It should follow the given template.
+- Each System contains a "questions" folder
+	- This is for tracking open questions. 
+	- This is differentiated from "notes" because each note should contain some kind of point of information or inference, and for ease of tracking.
 - Each System contains a "diagrams" folder
 	- This is for diagrams I have created to help illustrate concepts.
 	- Again, for now, no restrictions on the diagrams themselves.
 	- Base idea: try to use them for complex structures that are hard to keep in ones head.
 - Each System contains a "sources" folder
 	- Wherever possible this is not just links to sources: rather, this is downloaded, hard copies of the sources themselves. PDFs, copy-pasted text, saved images, whatever.
+	- When not possible for whatever reason (paywalled article, physical source, etc) it is cited as clearly as possible.
 - Each System contains an "XXX-revisions.md" file. 
 	- XXX is the system number
 	- This is a changelog for adjustments to the model.
