@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate Project System Report.md",
+                "file": "Meta Notes/Note Length.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Stargate Project System Report"
+              "title": "Note Length"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,9 +185,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "b64e3f4b034d761e",
+  "active": "899658e792f055e9",
   "lastOpenFiles": [
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Milam-County-Freebird-Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Shackelford-County-Frontier-Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Abilene Campus Per-GW Cost Stack.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate Project System Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Power Availability.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Hyperscalers.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a hyperscaler.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
@@ -199,22 +209,14 @@
     "Templates/Concept.md",
     "Templates/Current Model.md",
     "Investigation Index.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate Project System Report.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Power Availability.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/IEEE Data Center.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/Data Center infrastructure.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/HPE Colocation article.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
     "Templates/Question.md",
     "Meta Notes/Recon phase.md",
     "Meta Notes/Note Length.md",
-    "Meta Notes/A Notes Purpose.md",
-    "Investigations/Untitled.md",
-    "README.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes",
