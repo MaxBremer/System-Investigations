@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Shackelford-County-Frontier-Report.md",
+                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Lordstown-Engineering-and-Manufacturing-Hub-Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Stargate-Shackelford-County-Frontier-Report"
+              "title": "AI Stargate-Lordstown-Engineering-and-Manufacturing-Hub-Report"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "899658e792f055e9",
   "lastOpenFiles": [
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Consolidated-Capital-Stack-Model.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI PORTS-Pike-Technology-Campus-Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Shackelford-County-Frontier-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Lordstown-Engineering-and-Manufacturing-Hub-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Saline-Township-The-Barn-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Port-Washington-Lighthouse-Report.md",
@@ -194,7 +197,6 @@
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Milam-County-Freebird-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate Project System Report.md",
     "Meta Notes/Note Length.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Shackelford-County-Frontier-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Abilene Campus Per-GW Cost Stack.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Power Availability.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Hyperscalers.md",
@@ -213,8 +215,6 @@
     "Investigations/I-001-AI-Datacenters-SMV0.3/questions",
     "Templates/Concept.md",
     "Templates/Current Model.md",
-    "Investigation Index.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/IEEE Data Center.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/Data Center infrastructure.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
