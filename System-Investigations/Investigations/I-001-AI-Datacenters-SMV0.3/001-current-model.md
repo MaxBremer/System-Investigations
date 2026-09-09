@@ -301,7 +301,7 @@ The risk map is as important as the asset map. Legal ownership identifies who ho
 
 ## Biggest Unknowns
 
-- [[Can AI product revenue and gross margin support the contracted compute burden?]]
+- [[Can AI product revenue and gross margin support the contracted compute burden]]?
 - [[How much announced AI datacenter capacity becomes financed energized and utilized?]]
 - [[What are the true site-level hardware bills and refresh cycles?]]
 - [[How much useful compute will future hardware and software deliver per watt and dollar?]]
