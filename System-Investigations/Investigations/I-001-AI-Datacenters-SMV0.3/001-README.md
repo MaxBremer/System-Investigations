@@ -9,10 +9,12 @@ updated: 2026-07-15
 ## AI Datacenters
 
 **Status**
-- Phase: Opening investigations
-- Current focus: Building foundation
-- Next action: Build an ignorant map v0.0 in current-model.md
-	- Walk through a small number of examples/AI reports.
+
+- Phase: Model 0.1 complete; beginning validation and stress testing
+    
+- Current focus: Connecting physical buildout and capital commitments to utilization, recurring cost and AI product revenue
+    
+- Next action: Build a phase-adjusted capacity tracker separating announced, contracted, financed, permitted, under-construction, energized, commissioned and utilized GW
 
 ---
 

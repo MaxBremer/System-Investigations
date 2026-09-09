@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Lordstown-Engineering-and-Manufacturing-Hub-Report.md",
+                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Stargate-Lordstown-Engineering-and-Manufacturing-Hub-Report"
+              "title": "001-current-model"
             }
           }
         ]
@@ -185,12 +185,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "899658e792f055e9",
+  "active": "b64e3f4b034d761e",
   "lastOpenFiles": [
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Consolidated-Capital-Stack-Model.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI PORTS-Pike-Technology-Campus-Report.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Shackelford-County-Frontier-Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/001-revisions.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Consolidated-Capital-Stack-Model.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a data center.md",
+    "Current Investigation Model.md",
+    "Current Vault Model.md",
+    "Investigation Model Revisions.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/Data Center infrastructure.canvas",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Project-Camellia-Effingham-County-Georgia-Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI-Frontier-Infrastructure-Competitive-Benchmark.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Capex.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Lordstown-Engineering-and-Manufacturing-Hub-Report.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Shackelford-County-Frontier-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Saline-Township-The-Barn-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Port-Washington-Lighthouse-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Dona-Ana-County-Project-Jupiter-Report.md",
@@ -201,22 +214,9 @@
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Power Availability.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Hyperscalers.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Colocation.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/model-map.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/What is a hyperscaler.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
-    "Current Investigation Model.md",
-    "Investigation Model Revisions.md",
-    "Current Vault Model.md",
-    "Interesting Questions.md",
-    "Vault Model Revisions.md",
-    "Meta Notes/Anti-paralysis rules.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/questions",
-    "Templates/Concept.md",
-    "Templates/Current Model.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams/Data Center infrastructure.canvas",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
     "Investigations/I-001-AI-Datacenters-SMV0.3/diagrams",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes",
