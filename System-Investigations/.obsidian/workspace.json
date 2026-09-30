@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
+                "file": "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Texas freeze phase-by-phase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001-current-model"
+              "title": "AI Texas freeze phase-by-phase"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "b64e3f4b034d761e",
   "lastOpenFiles": [
-    "Investigations/I-001-AI-Datacenters-SMV0.3/questions/Can AI product revenue and gross margin support the contracted compute burden.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-current-model.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Texas freeze phase-by-phase.md",
+    "Investigations/I-001-AI-Datacenters-SMV0.3/questions/Can AI product revenue and gross margin support the contracted compute burden.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Stargate-Consolidated-Capital-Stack-Model.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI PORTS-Pike-Technology-Campus-Report.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/001-README.md",
@@ -214,7 +215,6 @@
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/AI Abilene Campus Per-GW Cost Stack.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Power Availability.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Hyperscalers.md",
-    "Investigations/I-001-AI-Datacenters-SMV0.3/notes/Datacenter upkeep costs.md",
     "Investigations/I-001-AI-Datacenters-SMV0.3/questions",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources/what-is-a-data-center_final.pdf",
     "Investigations/I-001-AI-Datacenters-SMV0.3/sources",
